@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "1010776847321",
+    "firebase_url": "https://heypockets1-2e3c8-default-rtdb.firebaseio.com",
+    "project_id": "heypockets1-2e3c8",
+    "storage_bucket": "heypockets1-2e3c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010776847321:android:b646c54de61a78af4edfc8",
+        "android_client_info": {
+          "package_name": "com.example.project_heypockets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010776847321-i1b1jp63rqaufg8a4uvlh0svrvlm3cu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKRrBe8Jw1hA32zJSfwwlhuZSvIcisbfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010776847321-i1b1jp63rqaufg8a4uvlh0svrvlm3cu4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010776847321-hh6ehdrcvdpe8ps4esohn05563upsnie.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.heypockets1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010776847321:android:ccdbc742a43ddf284edfc8",
+        "android_client_info": {
+          "package_name": "com.mycompany.heypockets1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010776847321-8gngp44fom2cvui8o1hk577mgl9nf967.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.heypockets1",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1010776847321-i1b1jp63rqaufg8a4uvlh0svrvlm3cu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKRrBe8Jw1hA32zJSfwwlhuZSvIcisbfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010776847321-i1b1jp63rqaufg8a4uvlh0svrvlm3cu4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010776847321-hh6ehdrcvdpe8ps4esohn05563upsnie.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.heypockets1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
